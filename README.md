@@ -1,4 +1,4 @@
-# Intall-NGINX-in-User-Data-of-an-EC2
+# Install-NGINX-in-User-Data-of-an-EC2
 
 #!/bin/bash
 
